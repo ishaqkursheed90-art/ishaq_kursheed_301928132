@@ -1,7 +1,13 @@
-# kursheed ishaq — MIT 8103
+# Hotel Reservation System
 
-Student ID: 301928132
+kursheed ishaq · Student ID 301928132
 
-Hotel Reservation System
+The portfolio uses fictional records for Hotel Reservation System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](ishaq_kursheed_301928132_FinalSummary.md) · [PDF](ishaq_kursheed_301928132_FinalSummary.pdf)
